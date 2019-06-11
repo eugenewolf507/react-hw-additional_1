@@ -1,0 +1,11 @@
+.noteEditor {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 300px;
+  background-color: aqua;
+}
+
+.textArea {
+  width: 100%;
+}
