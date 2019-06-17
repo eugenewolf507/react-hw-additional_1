@@ -3,9 +3,18 @@
   flex-wrap: wrap;
   justify-content: space-between;
   width: 300px;
-  background-color: aqua;
+  background-color: #fff;
 }
 
 .textArea {
   width: 100%;
+  border: none;
+  background-color: #fff;
+}
+
+.addButton {
+  background-color: #6ec374;
+  border-radius: 20px;
+  color: #fff;
+  padding: 10px 30px;
 }
